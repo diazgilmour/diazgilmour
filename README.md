@@ -17,8 +17,8 @@
 ---
 
 ### 📊 GitHub Stats
-![Diaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=diazglimour&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diazglimour&layout=compact&theme=tokyonight)
+![Diaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=diazgilmour&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diazgilmour&layout=compact&theme=tokyonight)
 
 ---
 
