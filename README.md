@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Diaz Gilmour!
+# 👋 Hi, I'm Diaz!
 
 🎓 Mahasiswa Teknologi Informasi di **Universitas Tidar**  
 💻 Tertarik dengan pengembangan **Web** dan **Jaringan**  
